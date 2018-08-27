@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         checkBox1= findViewById(R.id.riceId);
                 checkBox2= findViewById(R.id.meatId);
                         checkBox3= findViewById(R.id.chickenId);
+                        //check
     }
 
     public void checkBox(View view) {
